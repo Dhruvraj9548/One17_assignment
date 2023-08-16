@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "440302162021",
+    "project_id": "one17techassignment",
+    "storage_bucket": "one17techassignment.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:440302162021:android:af9b7757599713e456368c",
+        "android_client_info": {
+          "package_name": "com.example.one17_techass"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "440302162021-c51i9mdac38p1q97brohlapjs49ufskr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCK3i7l2-kiHgMtOuU8yBHS-8QZDh5U7XM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "440302162021-c51i9mdac38p1q97brohlapjs49ufskr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
